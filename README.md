@@ -12,6 +12,6 @@
 
 - **Author:** maabou512 (me)
 - **Licenses:** 
--- For the files in "original" foler : [Creative Commons 0, Version 1.0 Universal (CC0-1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)
--- **Licenses for emojis in the "apache2.0" folder:** Apache License 2.0 License
--- **Licenses for emojis in the "mit" folder:** MIT license
+  - **For the files in "original" foler** : [Creative Commons 0, Version 1.0 Universal (CC0-1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)
+  - **For emojis in the "apache2.0" folder:** Apache License 2.0 License
+  - **For emojis in the "mit" folder:** MIT license
